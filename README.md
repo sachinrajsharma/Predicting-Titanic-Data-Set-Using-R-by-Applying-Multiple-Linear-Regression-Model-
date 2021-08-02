@@ -1,0 +1,1 @@
+# Predicting-Titanic-Data-Set-Using-R-by-Applying-Multiple-Linear-Regression-Model-
